@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afc17f35-e454-49bf-9312-56b3b7b531e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop_2020_02_14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DoorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DoorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Roll-a-ball/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInventory.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF5F45F9-036E-4C62-A663-0FF0AD516D88/09/d0d18534/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xnb2n7FAZbFItQHvWboJqO2i1u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1639">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="1639" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc17f35-e454-49bf-9312-56b3b7b531e3" name="Default Changelist" comment="" />
+      <created>1581684600339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581684600339</updated>
+      <workItem from="1581684601754" duration="561000" />
+      <workItem from="1581685961800" duration="3341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1196" y="74" width="474" height="622" key="#xdebugger.evaluate" timestamp="1581689396077">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="1196" y="74" width="474" height="622" key="#xdebugger.evaluate/0.42.1920.1038@0.42.1920.1038" timestamp="1581689396077" />
+    <state width="1874" height="336" key="GridCell.Tab.0.bottom" timestamp="1581689400655">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.bottom/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400655" />
+    <state width="1874" height="336" key="GridCell.Tab.0.center" timestamp="1581689400655">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.center/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400655" />
+    <state width="1874" height="336" key="GridCell.Tab.0.left" timestamp="1581689400654">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.left/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400654" />
+    <state width="1874" height="336" key="GridCell.Tab.0.right" timestamp="1581689400655">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.0.right/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400655" />
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1581689400480">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400480" />
+    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1581689400479">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.center/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400479" />
+    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1581689400479">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.left/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400479" />
+    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1581689400480">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.1.right/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400480" />
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom" timestamp="1581689400481">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400481" />
+    <state width="1874" height="336" key="GridCell.Tab.2.center" timestamp="1581689400481">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.center/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400481" />
+    <state width="1874" height="336" key="GridCell.Tab.2.left" timestamp="1581689400481">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.left/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400481" />
+    <state width="1874" height="336" key="GridCell.Tab.2.right" timestamp="1581689400481">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.2.right/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400481" />
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom" timestamp="1581689400482">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400482" />
+    <state width="1874" height="336" key="GridCell.Tab.3.center" timestamp="1581689400482">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.center/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400482" />
+    <state width="1874" height="336" key="GridCell.Tab.3.left" timestamp="1581689400482">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.left/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400482" />
+    <state width="1874" height="336" key="GridCell.Tab.3.right" timestamp="1581689400482">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="336" key="GridCell.Tab.3.right/0.42.1920.1038@0.42.1920.1038" timestamp="1581689400482" />
+    <state x="627" y="152" width="662" height="646" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581686748810">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="627" y="152" width="662" height="646" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.1920.1038@0.42.1920.1038" timestamp="1581686748810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/DoorController.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DoorController.cs" initialLine="14">
+            <startOffsets>
+              <option value="331" />
+            </startOffsets>
+            <endOffsets>
+              <option value="373" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs</url>
+          <line>31</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" initialLine="31">
+            <startOffsets>
+              <option value="705" />
+            </startOffsets>
+            <endOffsets>
+              <option value="744" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
