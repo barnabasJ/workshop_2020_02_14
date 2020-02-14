@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.4465785, g: 0.49641252, b: 0.574817, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -533,6 +533,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 684504185}
     m_Modifications:
+    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
+        type: 3}
+      propertyPath: m_Name
+      value: Floor (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 1215489182732311950, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -587,11 +592,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
-        type: 3}
-      propertyPath: m_Name
-      value: Floor (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa, type: 3}
@@ -699,6 +699,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 684504185}
     m_Modifications:
+    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
+        type: 3}
+      propertyPath: m_Name
+      value: Floor (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 1215489182732311950, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -754,11 +759,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
-        type: 3}
-      propertyPath: m_Name
-      value: Floor (1)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa, type: 3}
 --- !u!4 &1746403100 stripped
@@ -774,6 +774,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 684504185}
     m_Modifications:
+    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
+        type: 3}
+      propertyPath: m_Name
+      value: Floor (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 1215489182732311950, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -829,11 +834,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
-        type: 3}
-      propertyPath: m_Name
-      value: Floor (2)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa, type: 3}
 --- !u!4 &1754392103 stripped
@@ -875,9 +875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f0808958222f8910a44e7c55abbfd67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  countText: {fileID: 0}
-  winText: {fileID: 0}
+  speed: 10
 --- !u!135 &1799224028
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -901,14 +899,14 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 34603ee6bf4f54bd4a070137d403b20d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -973,6 +971,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 684504185}
     m_Modifications:
+    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
+        type: 3}
+      propertyPath: m_Name
+      value: Floor
+      objectReference: {fileID: 0}
     - target: {fileID: 1215489182732311950, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1027,11 +1030,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6072474783777504328, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa,
-        type: 3}
-      propertyPath: m_Name
-      value: Floor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f7d5b10c5e9ebdbfa76a86e67377cfa, type: 3}
