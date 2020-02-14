@@ -10,9 +10,9 @@ public class DoorController : MonoBehaviour
     [SerializeField] private GameObject key;
     [SerializeField] private Inventory playerInventory;
 
-    public void OnTriggerEnter(Collider other)
+    public void OnCollisionEnter(Collision other)
     {
-        if (other.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
             if (playerInventory.hasItem(key))
             {

@@ -13,14 +13,14 @@ namespace DefaultNamespace
             return inventory.Contains(item);
         }
         
-        public bool addItem(GameObject item)
+        public void addItem(GameObject item)
         {
-            return inventory.Contains(item);
+            inventory.Add(item);
         }
         
-        public bool removeItem(GameObject item)
+        public void removeItem(GameObject item)
         {
-            return inventory.Contains(item);
+            inventory.Remove(item);
         }
     }
 }
