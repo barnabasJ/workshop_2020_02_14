@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ContentModelUserStore">
     <attachedFolders />
+<<<<<<< HEAD
     <explicitIncludes>
       <Path>Assets</Path>
       <Path>Library/PackageCache/com.unity.ads@2.0.8</Path>
@@ -20,5 +21,9 @@
       <Path>Logs</Path>
       <Path>Temp</Path>
     </explicitExcludes>
+=======
+    <explicitIncludes />
+    <explicitExcludes />
+>>>>>>> trigger wip
   </component>
 </project>
